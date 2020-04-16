@@ -4,8 +4,6 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 
 ## Exercise 1: Examine the Weather Forecast API
 
-1. Sign in via Remote Desktop to the virtual machine provided to you.
-1. Open the Edge browser. The profile has been pre-configured with a login that has access to the Microsoft 365 resources you'll need to perform the exercise.
 1. Click the **Microsoft Azure** favorite icon to log into the Microsoft Azure portal.
 1. Open the **study-baseline-app** App Service from the Azure portal.
 1. Click the **Browse** button to open the site in the web browser.
