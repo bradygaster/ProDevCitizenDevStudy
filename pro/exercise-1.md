@@ -19,4 +19,4 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 
 ---
 
-Continue on to [Exercise 1 Discussion](pro-dev-exercise-1-discussion.md)
+Continue on to [Exercise 1 Discussion](exercise-1-discussion.md)

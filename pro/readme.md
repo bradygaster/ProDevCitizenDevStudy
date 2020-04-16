@@ -15,4 +15,4 @@ If **you have**, how would you answer these questions:
 
 ---
 
-Continue on to [Exercise 1](pro-dev-index.md)
+Continue on to [Exercise 1](exercise-1.md)

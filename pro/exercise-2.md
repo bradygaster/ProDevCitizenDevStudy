@@ -30,4 +30,4 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 
 ---
 
-Continue on to [Exercise 2 Discussion](pro-dev-exercise-2-discussion.md)
+Continue on to [Exercise 2 Discussion](exercise-2-discussion.md)

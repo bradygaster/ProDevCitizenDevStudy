@@ -11,4 +11,4 @@ Do you have any other thoughts on this part of the exercise?
 
 ---
 
-Continue on to [Exercise 2](pro-dev-exercise-2.md)
+Continue on to [Exercise 2](exercise-2.md)
