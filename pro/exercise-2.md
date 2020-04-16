@@ -8,7 +8,7 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 1. Click the **Microsoft Azure** favorite button on the browser toolbar.
 1. Click the **study-apis** API Management service link in the Azure portal.
 1. Click the **APIs** navigation bar item.
-1. Click the **Add API* button.
+1. Click the **Add API** button.
 1. Click the **OpenAPI** button. This will launch the Open API (Swagger) import process.
 1. Paste the URL you copied in step 1 into the **OpenAPI specification** textbox.
 1. Type `weather/v1` into the **API URL suffix** textbox.
