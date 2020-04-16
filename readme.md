@@ -11,4 +11,4 @@ This series of walk-throughs present two phases of the application development l
 
 * If you're a software developer who builds back-end APIs and software services using IDEs and programming languages, continue on to the [pro dev](pro/readme.md) guide.
 
-* If you're a citizen developer who builds Flows, Forms, or Power Apps that make use of HTTPs via Custom Connectors, continue on to the [business dev](phase1-citizen-dev.md) guide.
+* If you're a citizen developer who builds Flows, Forms, or Power Apps that make use of HTTPs via Custom Connectors, continue on to the [citizen dev](citizen/readme.md) guide.
