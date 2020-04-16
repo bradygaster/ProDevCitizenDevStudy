@@ -20,7 +20,7 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 1. Type the following formula into the formula bar:
 
     ```
-    ClearCollect(ForecaseData,WeatherAPI.GetWeatherForecast())
+    ClearCollect(ForecastData,WeatherAPI.GetWeatherForecast())
     ```
 
     > This will result in a new Collection being created in your app named `ForecastData` to which the Gallery can be data-bound. It will then call the HTTP API and fill the entity with the results.
