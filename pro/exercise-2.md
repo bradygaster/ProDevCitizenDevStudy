@@ -22,6 +22,8 @@ This entire exercise will be performed within the Microsoft Edge browser, which 
 
     > This sets the Weather API's Base URL property. Since API Management serves as a front-end to any multiple back-end HTTP APIs, you may hit multiple back-end services that are proxied by a single API Management front end. For this reason you need to configure API Management to know how to find your back-end service.
 
+    > Note: Make sure the URL you paste into the **Web service URL** textbox does **not** end with a trailing slash.
+
 1. Click the **Save** button to save the change.
 1. Click the **Test** navigation link.
 1. Click the `/WeatherForecast - GET` operation.
